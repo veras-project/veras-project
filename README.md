@@ -1,6 +1,6 @@
 # Saudações! Eu sou Guilherme Véras
 
-Desenvolvedor Full-stack, aspirante da computação quântica e curioso sobre sistemas embarcados.
+Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more about embedded systems.
 
 ### Habilidades Principais:
 <div align="left">
