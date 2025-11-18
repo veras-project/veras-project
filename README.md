@@ -1,16 +1,28 @@
-## Hi there 👋
+# Saudações! Eu sou Guilherme Véras
 
-<!--
-**veras-project/veras-project** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Full-stack, aspirante da computação quântica e curioso sobre sistemas embarcados.
 
-Here are some ideas to get you started:
+### Habilidades Principais:
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Conecta-te Comigo:
+<a href="https://www.instagram.com/oguiveras/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"/></a>
+<a href="mailto:guilhermedealmeidaveras@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%233366CC?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+<a href="https://www.linkedin.com/in/verasguilherme/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+
+---
+
+### GitHub Stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=veras-project&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-project&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+</p>
+
+---
+
+### Projetos Recentes:
+- [O Fliperama](https://github.com/veras-project/FliperamaCin) - Uma breve oportunidade de aprender tanto desenvolvimento de jogos em linguagens de baixo nível quanto experiências em eletrônica e modelagem
+- [CIn Saída](https://github.com/lmps-dev/CIn-Saida) - Outra breve experiência em design de jogos e fases. Uma maneira lúdica de firmar conhecimentos em python.
