@@ -1,4 +1,4 @@
-# Saudações! Eu sou Guilherme Véras
+# Hello world! Guilherme Véras here
 
 Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more about embedded systems.
 
@@ -25,5 +25,5 @@ Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more
 ---
 
 ### Projetos Recentes:
-- [O Fliperama](https://github.com/veras-project/FliperamaCin) - Uma breve oportunidade de aprender tanto desenvolvimento de jogos em linguagens de baixo nível quanto experiências em eletrônica e modelagem
-- [CIn Saída](https://github.com/lmps-dev/CIn-Saida) - Outra breve experiência em design de jogos e fases. Uma maneira lúdica de firmar conhecimentos em python.
+- [O Fliperama](https://github.com/veras-project/FliperamaCin) - A brief opportunity to learn both game development in low-level languages and experiment with electronics and 3D modeling.
+- [CIn Saída](https://github.com/lmps-dev/CIn-Saida) - Another brief experiment in game and level design. A playful way to solidify Python knowledge.
