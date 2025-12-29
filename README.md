@@ -5,7 +5,7 @@ Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more
 ### Habilidades Principais:
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,py,css,c,supabase" />
+    <img src="https://skillicons.dev/icons?i=html,css,py,c,supabase" />
   </a>
 </div>
 
