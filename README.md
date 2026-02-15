@@ -18,7 +18,7 @@ Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more
 
 ### GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-project&layout=compact&theme=dracula" alt="Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veras-project&layout=compact&theme=dracula" alt="- -" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Commits_em_2025-345-6272a4?logo=git&logoColor=white" alt="Total de Commits" />
