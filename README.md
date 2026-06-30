@@ -30,4 +30,4 @@ Full-Stack dev for fun, quantum computing enthusiast, and aspiring to learn more
 ### Projetos Recentes:
 - [O Fliperama](https://github.com/veras-project/FliperamaCin) - A brief opportunity to learn both game development in low-level languages and experiment with electronics and 3D modeling.
 - [CIn Saída](https://github.com/lmps-dev/CIn-Saida) - Another brief experiment in game and level design. A playful way to solidify Python knowledge.
-- 
+- [Risc-V CPU](https://github.com/veras-project/RISC-V-PIPELINE-CPU.git) - A low level implemetation on computer architecture
